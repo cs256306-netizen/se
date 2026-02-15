@@ -1,0 +1,4 @@
+node_modules/
+ngrok
+test.js
+.env
